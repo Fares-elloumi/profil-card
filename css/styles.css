@@ -1,0 +1,41 @@
+.close{
+    width: 20px;
+    align-self: flex-end;
+    margin-bottom: auto;
+}
+
+body{
+   background-color: lightgray; 
+   
+}
+.card{
+    margin:10% auto;
+    width: 300px;
+    height: 400px;
+    background-color: white; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.profile{
+    border-radius: 50%;
+    width: 100px;
+    margin: 0px;
+
+}
+a{
+    width:80%;
+    height: 40px;
+    background-color: darkblue;
+    color: white;
+    text-decoration: none;
+    border-radius: 20px;
+    text-align: center;
+   
+    margin: 10px 25px;
+    
+    
+}
